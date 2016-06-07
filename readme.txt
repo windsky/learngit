@@ -4,4 +4,9 @@ I Love Song of Throne.
 hello,my baby.
 i'm back!
 i'm so bored!
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick & simple.
+>>>>>>> featurereating a new branch is quick & simple.
+

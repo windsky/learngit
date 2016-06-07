@@ -4,3 +4,4 @@ I Love Song of Throne.
 hello,my baby.
 i'm back!
 i'm so bored!
+Creating a new branch is quick.
